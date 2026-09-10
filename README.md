@@ -21,7 +21,7 @@ This project applies statistical hypothesis testing — specifically t-tests and
   - **F-test:** to compare variances between samples
 
 ## Results
-The t-test rejected the null hypothesis (p < 0.05), indicating no significant difference in mean SST between the two groups. Whereas for a single group , the t-test accepted the null hypothesis (p < 0.05) .   
+The t-test rejected the null hypothesis (p > 0.05), indicating no significant difference in mean SST between the two groups. Whereas for a single group , the t-test accepted the null hypothesis (p > 0.05) . For f-test , p < 0.05 indicating that the variances of the two samples are significantly different  
 
 ## Skills Demonstrated
 - Statistical hypothesis testing
