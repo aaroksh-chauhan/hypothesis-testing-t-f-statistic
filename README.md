@@ -6,7 +6,7 @@ This project applies statistical hypothesis testing — specifically t-tests and
 ## Objective
 - Test whether observed differences in two considered time domains T1(1901-1930) and T2(1995-2024) are statistically significant
 - Apply t-statistic for comparing means and F-statistic for comparing variances
-- [Add specific research question, e.g. "test whether mean temperature differs significantly between two seasons"]
+
 
 ## Data
 - **Source:** HADISST
@@ -21,7 +21,7 @@ This project applies statistical hypothesis testing — specifically t-tests and
   - **F-test:** to compare variances between samples
 
 ## Results
-[Summarize output — e.g. "The t-test rejected the null hypothesis (p < 0.05), indicating a statistically significant difference in mean [variable] between the two groups."]
+The t-test rejected the null hypothesis (p < 0.05), indicating a statistically significant difference in mean SST between the two groups. Whereas for a single group , the t-test accepted the null hypothesis (p < 0.05) indicating  
 
 ## Skills Demonstrated
 - Statistical hypothesis testing
